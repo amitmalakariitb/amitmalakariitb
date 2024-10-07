@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmalakariitb" alt="amitmalakariitb" /></a> </p>
 
-- 🔭 I’m currently working on [Inti-App](https://github.com/DevCom-IITB/instiapp-api)
+- 🔭 I’m currently working on [Insti-App](https://github.com/DevCom-IITB/instiapp-api)
 
 - 📫 How to reach me **amitmalakar887@gmail.com**
 
